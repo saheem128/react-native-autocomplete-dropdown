@@ -1,5 +1,5 @@
 {
-  "name": "rn-autocomplete-dropdown",
+  "name": "rn-auto-dropdown",
   "version": "2.1.2",
   "description": "Dropdown Item picker with search and autocomplete (typeahead) functionality for react native",
   "main": "src/index.js",
